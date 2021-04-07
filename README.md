@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ericMouss
 - 👀 I’m interested in Data Science / IoT / AI
 - 🌱 I’m currently learning computer and electronics engineering 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Machine learning project
 - 📫 How to reach me : moussodou.entreprise@gmail.com
 
 <!---
